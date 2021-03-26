@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+    color: #693C72; 
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 35px;
+    margin-top: 0;
+    color: #693C72; 
+}
+h3 {
+    font-family: 'Bangers', cursive;
+    font-size: 60px;
+    margin-top: 3%;
+    color: #693C72; 
+}
+.top {
+    background-color: #E2BCB7;
+    background-size: 0%;
+    height: 0%;
+    text-align: center;
+    padding-top: 90px;
+    position: relative;
+}
+.mountain{
+    width:110%;
+    margin: 0 auto;
+}
+.pic1{
+    height: 400px; 
+    width: 400px;
+}
+.pic2{
+    height: 400px; 
+    width: 400px;
+}
+.pic3{
+    height: 400px; 
+    width: 400px;
+}
+.middle{
+    display: inline-block;
+    height: 100px;
+}
+p {
+    font-family: Arial;
+    font-size: 30px;
+    margin-top: 5%;
+    text-align: justify;
+    padding: 20px 100px;
+    display: block;
+}
+.foot{
+    height: 700px;
+    background-color: #E2BCB7;
+    padding-top: 100px;
+    margin-top: 3%;
+}
+h4{
+    font-family: Arial;
+    font-size: 60px;
+    margin-top: 0%;
+    color: #693C72; 
+    margin-right:0px;
+    padding-top: 0;
+}
+.email {
+     width: 100px;
+     height: 100px;
+     float: left;
+     margin-left: 250px;
+     display: block;
+}
+.cp {
+    width: 100px;
+     height: 100px;
+     float: left;
+     margin-left: 250px;
+     display: block;
+}
+.fb {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 250px;
+    display: block;
+}
+.clouds {
+    width: 25%;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 70px;
+    bottom: 350px;
+}
+.middle-cloud{
+    position: absolute;
+    height: 70px;
+    width: 250px;
+    left: 850px;
+    bottom: 350px;
+}
+.line
+{
+    width:110%;
+    height:90px;
+    margin: 0 auto  
+}
+
